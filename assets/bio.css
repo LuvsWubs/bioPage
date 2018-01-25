@@ -1,0 +1,19 @@
+body {
+  padding: 20px;
+  background-color: DarkSalmon;
+}
+
+h1 {
+  background-color: pink;
+  padding: 20px;
+
+}
+
+h3 {
+  margin-left: 15px;
+  text-shadow: white;
+}
+
+a {
+  color: red;
+}
